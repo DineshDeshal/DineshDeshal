@@ -7,7 +7,11 @@
 
 
 
-## 🌱 Hello, World! I'm Dinesh Sharma, a computer science student with a passion for technology and a curious mind eager to explore the world of coding and development. ### 👨‍💻 Currently Learning I'm in the early stages of my academic journey, diving into the fundamentals of programming, algorithms,data structures and Web development . ### 🚀 What Excites Me While I may be a newcomer, I'm fascinated by the potential of technology to solve problems and make a positive impact on the world. ### 📚 Goals for the Future My goal is to absorb as much knowledge as I can during my academic journey and eventually contribute to the tech community. ### 🤝 Let's Learn Together! I'm here to connect with fellow learners, experienced developers, and anyone passionate about technology. If you have advice, resources, or just want to chat about coding, feel free to reach out! Thanks for stopping by my GitHub! Let's embark on this coding adventure together! 🚀
+🌱 Hello, World! I'm Dinesh Sharma, a computer science student with a passion for technology and a curious mind eager to explore the world of coding and development. 
+👨‍💻 Currently Learning I'm in the early stages of my academic journey, diving into the fundamentals of programming, algorithms,data structures and Web development .
+🚀 What Excites Me While I may be a newcomer, I'm fascinated by the potential of technology to solve problems and make a positive impact on the world. 
+📚 Goals for the Future My goal is to absorb as much knowledge as I can during my academic journey and eventually contribute to the tech community. 
+🤝 Let's Learn Together! I'm here to connect with fellow learners, experienced developers, and anyone passionate about technology. If you have advice, resources, or just want to chat about coding, feel free to reach out! Thanks for stopping by my GitHub! Let's embark on this coding adventure together! 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshsharma&label=Profile%20views&color=0e75b6&style=flat" alt="dineshsharma" /> </p>
 
