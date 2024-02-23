@@ -1,11 +1,5 @@
-
-
-
 <h1 align="center">Hi 👋, I'm Dinesh Sharma</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-
-
-
 
 🌱 Hello, World! I'm Dinesh Sharma, a computer science student with a passion for technology and a curious mind eager to explore the world of coding and development. 
 👨‍💻 Currently Learning I'm in the early stages of my academic journey, diving into the fundamentals of programming, algorithms,data structures and Web development .
@@ -42,5 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineshsharma&show_icons=true&locale=en" alt="dineshsharma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dineshsharma&" alt="dineshsharma" /></p>
-
-
