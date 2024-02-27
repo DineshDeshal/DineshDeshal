@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dinesh Sharma</h1>
+<h1 align="center">Hello Everyone 👋, I'm Dinesh Sharma</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 🌱 Hello, World! I'm Dinesh Sharma, a computer science student with a passion for technology and a curious mind eager to explore the world of coding and development. 
